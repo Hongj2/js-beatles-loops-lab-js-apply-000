@@ -5,9 +5,4 @@ function theBeatlesPlay () {
   return (musicians, instruments)
 }
 let aaray = [ ]
-for(musicians ; play ; instruments){ 
-}
-
-function beatlesLoops (){
-   return (instruments musicians)
-}
+for(
